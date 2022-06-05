@@ -8,3 +8,6 @@
 / activityLauncher, `StartActivityForResult()` kullanılarak tanımlanmıştır. Yani, içerisinde alınan izin ile ulaştığı birimden bir data dönderir ve startActivity işlemi için kullanılır.
 
 / permissionLauncher, `RequestPermission()` kullanılarak tanımlanmıştır. Kullanıcıdan izin almak için kullanılan değişkendir. result, false dönerse Toast ile bir uyarı gösterilir. Eğer true dönerse activityLauncher ile startIntent işlemi yapılır.
+
+
+![gif](https://user-images.githubusercontent.com/76227969/172053228-6b595871-ddd3-4fee-827e-a7ab9376708f.gif)
